@@ -1,4 +1,6 @@
-# Job Elevate — AI-Powered Job Matching & Upskilling Platform
+# Job Elevate —  An AI-Powered Job Matching & Upskilling Platform
+## Description 
+ This project is a web application that allos users to create accounts, login, and apply for jobs
 
 A full-stack Django web application that connects job seekers with career opportunities using **Machine Learning**, **AI-generated assessments**, and **personalized learning paths**. Built as an academic project demonstrating end-to-end ML integration in a production-style web app.
 
